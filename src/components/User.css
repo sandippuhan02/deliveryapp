@@ -1,0 +1,10 @@
+.user-card,.countcard{
+    padding:10px;
+    border:1px solid black;
+    margin :12px;
+
+}
+#card{
+    background-color:rgb(233, 240, 223);
+    width : 100px;
+}
